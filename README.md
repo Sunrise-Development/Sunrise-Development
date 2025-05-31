@@ -5,6 +5,5 @@
 - ⚡ Interesting facts: We are a small development team since 2024
 
 <!---
-Sunrise-Development/Sunrise-Development is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Sunrise-Development/Sunrise-Development is a ✨ special ✨ repository
 --->
