@@ -1,4 +1,4 @@
-- 👋 Hello, we're @Sunrise-Development.
+- 👋 Hello, we're @Friedrichshafen-Development.
 - 👀 We're interested in Lua scripting.
 - 🌱 We're currently learning Lua scripting.
 - 📫 How to reach us: https://discord.gg/f69cwXFPWu
