@@ -5,5 +5,5 @@
 - ⚡ Interesting facts: We are a small development team since 2024
 
 <!---
-Sunrise-Development/Sunrise-Development is a ✨ special ✨ repository
+Friedrichshafen-Development/Friedrichshafen-Development is a ✨ special ✨ repository
 --->
